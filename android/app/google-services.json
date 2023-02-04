@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607774298819",
+    "project_id": "newtodo-3b8c5",
+    "storage_bucket": "newtodo-3b8c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607774298819:android:241d5d8871f167f9d3c876",
+        "android_client_info": {
+          "package_name": "com.example.newtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607774298819-jbhbcijqmmtg3qmravev8qb9v0h9r7i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcqU8ORWhDp6s734CO2hdX5sQOxsYAGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607774298819-jbhbcijqmmtg3qmravev8qb9v0h9r7i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
